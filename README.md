@@ -21,5 +21,5 @@ The goal of this internship is to apply data-driven methodologies, statistical a
 
 ## 📞 Contact
 Feel free to reach out if you have any questions regarding the analysis or code.
-* **LinkedIn:** [rayyan-desk](https://www.linkedin.com/in/rayyan-desk)
-* **Email:** [mrayyanshehzad](mrayyanshehzad@gmail.com)
+* **LinkedIn:** https://www.linkedin.com/in/rayyan-desk
+* **Email:** mrayyanshehzad@gmail.com
