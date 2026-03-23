@@ -17,6 +17,25 @@ The goal of this internship is to apply data-driven methodologies, statistical a
 
 ## 📂 Internship Tasks
 
+### ✅ Task 01 - Exploring and Visualizing a Simple Dataset
+**Objective:** Understand the structure, statistical properties, and visual patterns of the Iris dataset.  
+**Dataset:** Iris Dataset (`sklearn.datasets`)  
+**Skills:** EDA, data inspection, histograms, box plots, scatter plots, pair plots.
+
+---
+
+### ✅ Task 02 - Credit Risk Prediction
+**Objective:** Predict whether a loan applicant is likely to default on a loan.  
+**Dataset:** [Loan Prediction Dataset](https://www.kaggle.com/datasets/shreyasparaj1/loan-prediction-dataset)  
+**Skills:** Data cleaning, missing value handling, EDA, binary classification, confusion matrix, Logistic Regression, Random Forest.
+
+---
+
+### ✅ Task 03 - Predicting Insurance Claim Amounts
+**Objective:** Estimate medical insurance charges based on personal attributes such as age, BMI, and smoking status.  
+**Dataset:** [Medical Cost Personal Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance)  
+**Skills:** Regression modeling, feature correlation, visualization, MAE & RMSE evaluation, Linear Regression.
+
 ---
 
 ## 📞 Contact
