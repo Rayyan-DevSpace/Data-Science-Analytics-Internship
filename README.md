@@ -40,14 +40,14 @@ The goal of this internship is to apply data-driven methodologies, statistical a
 
 ### **✅ Task 04 - Term Deposit Subscription Prediction**
 **Objective:** Predict whether a bank customer will subscribe to a term deposit as a result of a marketing campaign.  
-**Dataset:** Bank Marketing Dataset (UCI Machine Learning Repository).  
+**Dataset:** [Bank Marketing Dataset (UCI Machine Learning Repository)](http://archive.ics.uci.edu/dataset/222/bank+marketing)  
 **Skills:** Classification modeling (Random Forest), Feature encoding (Label & One-Hot), Model interpretability (SHAP/XAI), Performance metrics (Confusion Matrix, F1-Score, ROC Curve).
 
 ---
 
 ### **✅ Task 05 - Customer Segmentation Using Unsupervised Learning**
 **Objective:** Cluster customers into distinct segments based on spending habits and income to propose tailored marketing strategies.  
-**Dataset:** Mall Customers Dataset.  
+**Dataset:** [Mall Customers Dataset](https://www.kaggle.com/datasets/shwetabh123/mall-customers)  
 **Skills:** Unsupervised learning (K-Means), Optimal K determination (Elbow Method), Dimensionality reduction (PCA, t-SNE), Customer behavior analysis.
 
 ---
